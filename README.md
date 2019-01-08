@@ -13,8 +13,6 @@
 * checkout project repository
 * update **.gitignore** with project folder
 * copy **.env.dist** to **.env** and set DIR variable to project folder
-
-
 * docker-compose up -d
 * docker-compose exec app php bin/console
 
